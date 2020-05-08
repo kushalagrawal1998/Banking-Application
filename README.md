@@ -18,8 +18,44 @@ Web-app based on spring mvc and hibernate
     4. MySQl Databse<br>
     5. Hibernate Framework<br>
     6. Server: TomCat 9.0x
+   
+  <B>Screenshots</B><BR>
+  <B>1. Home page 1. 
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/home_page(2).png)<BR>
     
-   <img src = "https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/home_page(1).png" width= 100" height="100"/> 
+  <B>2. Home page 2.</B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/home_page(1).png)
+  
+  
+  <B>3. Login first </B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/login_first.png)
+  
+  
+  <B>4. Login done</B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/login_done.png)
+  
+  
+  <B>5. Deposit amount </B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/deposit_ammount.png)
+  
+  
+  <B>6. Create account </B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/create_account.png)
+  
+  
+  <B>7. Transfer amount </B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/amount_transfered.png)
+    
+   
+  <B>8. Amount witdrawn</B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/amount_withdrwan.png)
+  
+  
+  <B>9. Apply for loan</B><BR>
+  ![test image size](https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/apply_for_loan.png)
+  
+  
+
   
   
   
