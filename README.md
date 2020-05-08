@@ -18,6 +18,8 @@ Web-app based on spring mvc and hibernate
     4. MySQl Databse<br>
     5. Hibernate Framework<br>
     6. Server: TomCat 9.0x
+    
+   <img src = "https://github.com/kushalagrawal1998/Banking-Application/blob/master/Screenshot/home_page(1).png" width= 100" height="100"/> 
   
   
   
