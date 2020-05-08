@@ -1,0 +1,6 @@
+CREATE TABLE `files_upload` (
+ `upload_id` int(11) NOT NULL AUTO_INCREMENT,
+ `file_name` varchar(128) DEFAULT NULL,
+ `file_data` longblob DEFAULT NULL,
+ PRIMARY KEY (`upload_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8mb4
